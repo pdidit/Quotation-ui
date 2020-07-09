@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Quotation-ui"
+    }
+  },
+  "defaultProject": "Quotation-ui",
+  "cli": {
+    "analytics": false
+  }
 }
